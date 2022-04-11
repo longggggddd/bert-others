@@ -1,7 +1,7 @@
 # bert-others
 ## 环境
 
-python  3.8\n
+python  3.8
 Tensorflow	2.8.0
 Pytorch	1.9.1
 Transformers	4.11.3
